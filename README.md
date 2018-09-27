@@ -4,9 +4,9 @@ A repo for algorithm practice
 
 ## LeetCode
 
-[1. Two Sum](https://github.com/masteroy/algorithm/issues/33)
+##### [1. Two Sum](https://github.com/masteroy/algorithm/issues/33)
 
-[2. Add Two Numbers](https://github.com/masteroy/algorithm/issues/7)
+##### [2. Add Two Numbers](https://github.com/masteroy/algorithm/issues/7)
 
 [7. Reverse Integer](https://github.com/masteroy/algorithm/issues/34)
 
@@ -19,6 +19,12 @@ A repo for algorithm practice
 [15. 3Sum](https://github.com/masteroy/algorithm/issues/8)
 
 [19. Remove Nth Node From End of List](https://github.com/masteroy/algorithm/issues/37)
+
+[20. Valid Parentheses](https://github.com/masteroy/algorithm/issues/38)
+
+[21. Merge Two Sorted Lists](https://github.com/masteroy/algorithm/issues/39)
+
+[26. Remove Duplicates from Sorted Array](https://github.com/masteroy/algorithm/issues/40)
 
 [29. Divide Two Integers](https://github.com/masteroy/algorithm/issues/21)
 
