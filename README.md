@@ -16,6 +16,8 @@ A repo for algorithm practice
 
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/masteroy/algorithm/issues/19)
 
+[48. Rotate Image](https://github.com/masteroy/algorithm/issues/32)
+
 [49. Group Anagrams](https://github.com/masteroy/algorithm/issues/9)
 
 [50. Pow(x, n)](https://github.com/masteroy/algorithm/issues/20)
