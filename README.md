@@ -4,7 +4,11 @@ A repo for algorithm practice
 
 ## LeetCode
 
+[1. Two Sum](https://github.com/masteroy/algorithm/issues/33)
+
 [2. Add Two Numbers](https://github.com/masteroy/algorithm/issues/7)
+
+[7. Reverse Integer](https://github.com/masteroy/algorithm/issues/34)
 
 [9. Palindrome Number](https://github.com/masteroy/algorithm/issues/23)
 
