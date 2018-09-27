@@ -28,6 +28,8 @@ A repo for algorithm practice
 ##### [56. Merge Intervals](https://github.com/masteroy/algorithm/issues/13)
 ##### [62. Unique Paths](https://github.com/masteroy/algorithm/issues/17)
 ##### [63. Unique Paths II](https://github.com/masteroy/algorithm/issues/18)
+##### [69. Sqrt(x)](https://github.com/masteroy/algorithm/issues/45)
+##### [70. Climbing Stairs](https://github.com/masteroy/algorithm/issues/46)
 ##### [73. Set Matrix Zeroes](https://github.com/masteroy/algorithm/issues/4)
 ##### [75. Sort Colors](https://github.com/masteroy/algorithm/issues/1)
 ##### [94. Binary Tree Inorder Traversa](https://github.com/masteroy/algorithm/issues/2)
