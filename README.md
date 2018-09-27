@@ -10,7 +10,11 @@ A repo for algorithm practice
 
 [7. Reverse Integer](https://github.com/masteroy/algorithm/issues/34)
 
+[8. String to Integer (atoi)](https://github.com/masteroy/algorithm/issues/35)
+
 [9. Palindrome Number](https://github.com/masteroy/algorithm/issues/23)
+
+[13. Roman to Integer](https://github.com/masteroy/algorithm/issues/36)
 
 [15. 3Sum](https://github.com/masteroy/algorithm/issues/8)
 
