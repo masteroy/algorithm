@@ -32,6 +32,7 @@ A repo for algorithm practice
 ##### [70. Climbing Stairs](https://github.com/masteroy/algorithm/issues/46)
 ##### [73. Set Matrix Zeroes](https://github.com/masteroy/algorithm/issues/4)
 ##### [75. Sort Colors](https://github.com/masteroy/algorithm/issues/1)
+##### [88. Merge Sorted Array](https://github.com/masteroy/algorithm/issues/47)
 ##### [94. Binary Tree Inorder Traversa](https://github.com/masteroy/algorithm/issues/2)
 ##### [104. Maximum Depth of Binary Tree](https://github.com/masteroy/algorithm/issues/28)
 ##### [116. Populating Next Right Pointers in Each Node](https://github.com/masteroy/algorithm/issues/11)
