@@ -34,6 +34,8 @@ A repo for algorithm practice
 ##### [75. Sort Colors](https://github.com/masteroy/algorithm/issues/1)
 ##### [88. Merge Sorted Array](https://github.com/masteroy/algorithm/issues/47)
 ##### [94. Binary Tree Inorder Traversa](https://github.com/masteroy/algorithm/issues/2)
+##### [98. Validate Binary Search Tree](https://github.com/masteroy/algorithm/issues/48)
+##### [102. Binary Tree Level Order Traversal](https://github.com/masteroy/algorithm/issues/49)
 ##### [104. Maximum Depth of Binary Tree](https://github.com/masteroy/algorithm/issues/28)
 ##### [116. Populating Next Right Pointers in Each Node](https://github.com/masteroy/algorithm/issues/11)
 ##### [150. Evaluate Reverse Polish Notation](https://github.com/masteroy/algorithm/issues/14)
