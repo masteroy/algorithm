@@ -41,6 +41,7 @@ A repo for algorithm practice
 ##### [116. Populating Next Right Pointers in Each Node](https://github.com/masteroy/algorithm/issues/11)
 ##### [121. Best Time to Buy and Sell Stock](https://github.com/masteroy/algorithm/issues/51)
 ##### [122. Best Time to Buy and Sell Stock II](https://github.com/masteroy/algorithm/issues/52)
+##### [125. Valid Palindrome](https://github.com/masteroy/algorithm/issues/53)
 ##### [150. Evaluate Reverse Polish Notation](https://github.com/masteroy/algorithm/issues/14)
 ##### [160. Intersection of Two Linked Lists](https://github.com/masteroy/algorithm/issues/5)
 ##### [162. Find Peak Element](https://github.com/masteroy/algorithm/issues/12)
