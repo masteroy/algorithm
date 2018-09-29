@@ -1,6 +1,6 @@
 # Algorithm
 
-A repo for algorithm practice
+A repo for algorithm practice.
 
 ## LeetCode
 
