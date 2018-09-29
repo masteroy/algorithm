@@ -73,6 +73,7 @@ A repo for algorithm practice.
 ##### [326. Power of Three](https://github.com/masteroy/algorithm/issues/71)
 ##### [328. Odd Even Linked List](https://github.com/masteroy/algorithm/issues/72)
 ##### [344. Reverse String](https://github.com/masteroy/algorithm/issues/29)
+##### [347. Top K Frequent Elements](https://github.com/masteroy/algorithm/issues/81)
 ##### [350. Intersection of Two Arrays II](https://github.com/masteroy/algorithm/issues/73)
 ##### [371. Sum of Two Integers](https://github.com/masteroy/algorithm/issues/10)
 ##### [384. Shuffle an Array](https://github.com/masteroy/algorithm/issues/74)
