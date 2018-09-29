@@ -66,6 +66,7 @@ A repo for algorithm practice.
 ##### [231. Power of Two](https://github.com/masteroy/algorithm/issues/24)
 ##### [234. Palindrome Linked List](https://github.com/masteroy/algorithm/issues/66)
 ##### [237. Delete Node in a Linked List](https://github.com/masteroy/algorithm/issues/31)
+##### [240. Search a 2D Matrix II](https://github.com/masteroy/algorithm/issues/82)
 ##### [242. Valid Anagram](https://github.com/masteroy/algorithm/issues/67)
 ##### [268. Missing Number](https://github.com/masteroy/algorithm/issues/68)
 ##### [278. First Bad Version](https://github.com/masteroy/algorithm/issues/69)
