@@ -63,6 +63,7 @@ A repo for algorithm practice.
 ##### [204. Count Primes](https://github.com/masteroy/algorithm/issues/63)
 ##### [206. Reverse Linked List](https://github.com/masteroy/algorithm/issues/64)
 ##### [217. Contains Duplicate](https://github.com/masteroy/algorithm/issues/65)
+##### [230. Kth Smallest Element in a BST](https://github.com/masteroy/algorithm/issues/83)
 ##### [231. Power of Two](https://github.com/masteroy/algorithm/issues/24)
 ##### [234. Palindrome Linked List](https://github.com/masteroy/algorithm/issues/66)
 ##### [237. Delete Node in a Linked List](https://github.com/masteroy/algorithm/issues/31)
