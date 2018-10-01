@@ -81,6 +81,7 @@ A repo for algorithm practice.
 ##### [347. Top K Frequent Elements](https://github.com/masteroy/algorithm/issues/81)
 ##### [350. Intersection of Two Arrays II](https://github.com/masteroy/algorithm/issues/73)
 ##### [371. Sum of Two Integers](https://github.com/masteroy/algorithm/issues/10)
+##### [380. Insert Delete GetRandom O(1)](https://github.com/masteroy/algorithm/issues/87)
 ##### [384. Shuffle an Array](https://github.com/masteroy/algorithm/issues/74)
 ##### [387. First Unique Character in a String](https://github.com/masteroy/algorithm/issues/75)
 ##### [412. Fizz Buzz](https://github.com/masteroy/algorithm/issues/76)
