@@ -27,6 +27,7 @@ A repo for algorithm practice.
 ##### [50. Pow(x, n)](https://github.com/masteroy/algorithm/issues/20)
 ##### [53. Maximum Subarray](https://github.com/masteroy/algorithm/issues/44)
 ##### [56. Merge Intervals](https://github.com/masteroy/algorithm/issues/13)
+##### [61. Rotate List](https://github.com/masteroy/algorithm/issues/86)
 ##### [62. Unique Paths](https://github.com/masteroy/algorithm/issues/17)
 ##### [63. Unique Paths II](https://github.com/masteroy/algorithm/issues/18)
 ##### [66. Plus One](https://github.com/masteroy/algorithm/issues/79)
