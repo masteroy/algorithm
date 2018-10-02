@@ -66,6 +66,7 @@ A repo for algorithm practice.
 ##### [202. Happy Numbe](https://github.com/masteroy/algorithm/issues/62)
 ##### [204. Count Primes](https://github.com/masteroy/algorithm/issues/63)
 ##### [206. Reverse Linked List](https://github.com/masteroy/algorithm/issues/64)
+##### [215. Kth Largest Element in an Array](https://github.com/masteroy/algorithm/issues/6)
 ##### [217. Contains Duplicate](https://github.com/masteroy/algorithm/issues/65)
 ##### [230. Kth Smallest Element in a BST](https://github.com/masteroy/algorithm/issues/83)
 ##### [231. Power of Two](https://github.com/masteroy/algorithm/issues/24)
