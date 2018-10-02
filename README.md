@@ -77,6 +77,7 @@ A repo for algorithm practice.
 ##### [278. First Bad Version](https://github.com/masteroy/algorithm/issues/69)
 ##### [283. Move Zeroes](https://github.com/masteroy/algorithm/issues/70)
 ##### [297. Serialize and Deserialize Binary Tree](https://github.com/masteroy/algorithm/issues/88)
+##### [300. Longest Increasing Subsequence](https://github.com/masteroy/algorithm/issues/16)
 ##### [326. Power of Three](https://github.com/masteroy/algorithm/issues/71)
 ##### [328. Odd Even Linked List](https://github.com/masteroy/algorithm/issues/72)
 ##### [344. Reverse String](https://github.com/masteroy/algorithm/issues/29)
