@@ -46,6 +46,7 @@ A repo for algorithm practice.
 ##### [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/masteroy/algorithm/issues/84)
 ##### [108. Convert Sorted Array to Binary Search Tree](https://github.com/masteroy/algorithm/issues/50)
 ##### [116. Populating Next Right Pointers in Each Node](https://github.com/masteroy/algorithm/issues/11)
+##### [118. Pascal's Triangle](https://github.com/masteroy/algorithm/issues/90)
 ##### [121. Best Time to Buy and Sell Stock](https://github.com/masteroy/algorithm/issues/51)
 ##### [122. Best Time to Buy and Sell Stock II](https://github.com/masteroy/algorithm/issues/52)
 ##### [125. Valid Palindrome](https://github.com/masteroy/algorithm/issues/53)
