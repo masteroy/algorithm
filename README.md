@@ -26,6 +26,7 @@ A repo for algorithm practice.
 ##### [49. Group Anagrams](https://github.com/masteroy/algorithm/issues/9)
 ##### [50. Pow(x, n)](https://github.com/masteroy/algorithm/issues/20)
 ##### [53. Maximum Subarray](https://github.com/masteroy/algorithm/issues/44)
+##### [55. Jump Game](https://github.com/masteroy/algorithm/issues/89)
 ##### [56. Merge Intervals](https://github.com/masteroy/algorithm/issues/13)
 ##### [61. Rotate List](https://github.com/masteroy/algorithm/issues/86)
 ##### [62. Unique Paths](https://github.com/masteroy/algorithm/issues/17)
