@@ -85,6 +85,7 @@ A repo for algorithm practice.
 ##### [322. Coin Change](https://github.com/masteroy/algorithm/issues/91)
 ##### [326. Power of Three](https://github.com/masteroy/algorithm/issues/71)
 ##### [328. Odd Even Linked List](https://github.com/masteroy/algorithm/issues/72)
+##### [334. Increasing Triplet Subsequence](https://github.com/masteroy/algorithm/issues/94)
 ##### [344. Reverse String](https://github.com/masteroy/algorithm/issues/29)
 ##### [347. Top K Frequent Elements](https://github.com/masteroy/algorithm/issues/81)
 ##### [350. Intersection of Two Arrays II](https://github.com/masteroy/algorithm/issues/73)
