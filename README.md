@@ -6,6 +6,7 @@ A repo for algorithm practice.
 
 ##### [1. Two Sum](https://github.com/masteroy/algorithm/issues/33)
 ##### [2. Add Two Numbers](https://github.com/masteroy/algorithm/issues/7)
+##### [3. Longest Substring Without Repeating Characters](https://github.com/masteroy/algorithm/issues/93)
 ##### [7. Reverse Integer](https://github.com/masteroy/algorithm/issues/34)
 ##### [8. String to Integer (atoi)](https://github.com/masteroy/algorithm/issues/35)
 ##### [9. Palindrome Number](https://github.com/masteroy/algorithm/issues/23)
