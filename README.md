@@ -64,6 +64,7 @@ A repo for algorithm practice.
 ##### [190. Reverse Bits](https://github.com/masteroy/algorithm/issues/59)
 ##### [191. Number of 1 Bits](https://github.com/masteroy/algorithm/issues/60)
 ##### [198. House Robber](https://github.com/masteroy/algorithm/issues/61)
+##### [200. Number of Islands ](https://github.com/masteroy/algorithm/issues/92)
 ##### [202. Happy Numbe](https://github.com/masteroy/algorithm/issues/62)
 ##### [204. Count Primes](https://github.com/masteroy/algorithm/issues/63)
 ##### [206. Reverse Linked List](https://github.com/masteroy/algorithm/issues/64)
